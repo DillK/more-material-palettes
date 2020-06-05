@@ -1,0 +1,32 @@
+$olivedrab: (
+		50: #EDF1E5,
+		100: #D3DDBD,
+		200: #B5C791,
+		300: #97B065,
+		400: #819F44,
+		500: #6B8E23,
+		600: #63861F,
+		700: #587B1A,
+		800: #4E7115,
+		900: #3C5F0C,
+		A100: #EAFFA0,
+		A200: #DEFF6D,
+		A400: #D3FF3A,
+		A700: #CDFF21,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $light-primary-text,
+			600: $light-primary-text,
+			700: $light-primary-text,
+			800: $light-primary-text,
+			900: $light-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

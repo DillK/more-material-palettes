@@ -1,0 +1,32 @@
+$forestgreen: (
+		50: #E4F1E4,
+		100: #BDDCBD,
+		200: #91C591,
+		300: #64AE64,
+		400: #439C43,
+		500: #228B22,
+		600: #1E831E,
+		700: #197819,
+		800: #146E14,
+		900: #0C5B0C,
+		A100: #B7FFA2,
+		A200: #90FF6F,
+		A400: #69FF3C,
+		A700: #55FF22,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $light-primary-text,
+			500: $light-primary-text,
+			600: $light-primary-text,
+			700: $light-primary-text,
+			800: $light-primary-text,
+			900: $light-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

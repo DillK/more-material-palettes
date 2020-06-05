@@ -1,0 +1,32 @@
+$saddlebrown: (
+		50: #F1E9E3,
+		100: #DCC7B8,
+		200: #C5A289,
+		300: #AE7D5A,
+		400: #9C6136,
+		500: #8B4513,
+		600: #833E11,
+		700: #78360E,
+		800: #6E2E0B,
+		900: #5B1F06,
+		A100: #FFB2B6,
+		A200: #FF7F86,
+		A400: #FF4C56,
+		A700: #FF323D,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $light-primary-text,
+			500: $light-primary-text,
+			600: $light-primary-text,
+			700: $light-primary-text,
+			800: $light-primary-text,
+			900: $light-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $light-primary-text
+		)
+	) !default;

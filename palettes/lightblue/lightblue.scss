@@ -1,0 +1,32 @@
+$lightblue: (
+		50: #F5FAFC,
+		100: #E6F3F8,
+		200: #D6ECF3,
+		300: #C6E4EE,
+		400: #B9DEEA,
+		500: #ADD8E6,
+		600: #A6D4E3,
+		700: #9CCEDF,
+		800: #93C8DB,
+		900: #83BFD5,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #FFFFFF,
+		A700: #FFFFFF,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $dark-primary-text,
+			900: $dark-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

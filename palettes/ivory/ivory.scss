@@ -1,0 +1,32 @@
+$ivory: (
+		50: #FFFFFD,
+		100: #FFFFFB,
+		200: #FFFFF8,
+		300: #FFFFF5,
+		400: #FFFFF2,
+		500: #FFFFF0,
+		600: #FFFFEE,
+		700: #FFFFEC,
+		800: #FFFFE9,
+		900: #FFFFE5,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #FFFFFF,
+		A700: #FFFFFF,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $dark-primary-text,
+			900: $dark-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

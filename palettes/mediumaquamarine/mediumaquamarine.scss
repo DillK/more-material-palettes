@@ -1,0 +1,32 @@
+$mediumaquamarine: (
+		50: #EDF9F5,
+		100: #D1F0E6,
+		200: #B3E6D5,
+		300: #94DCC4,
+		400: #7DD5B7,
+		500: #66CDAA,
+		600: #5EC8A3,
+		700: #53C199,
+		800: #49BA90,
+		900: #38AE7F,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #CFFFE5,
+		A700: #B5FFD7,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $dark-primary-text,
+			900: $dark-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

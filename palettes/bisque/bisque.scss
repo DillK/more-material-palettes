@@ -1,0 +1,32 @@
+$bisque: (
+		50: #FFFCF8,
+		100: #FFF7ED,
+		200: #FFF2E2,
+		300: #FFECD6,
+		400: #FFE8CD,
+		500: #FFE4C4,
+		600: #FFE1BE,
+		700: #FFDDB6,
+		800: #FFD9AF,
+		900: #FFD1A2,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #FFFFFF,
+		A700: #FFFFFF,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $dark-primary-text,
+			900: $dark-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

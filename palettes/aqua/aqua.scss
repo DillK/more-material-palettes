@@ -1,0 +1,32 @@
+$aqua: (
+		50: #E0FFFF,
+		100: #B3FFFF,
+		200: #80FFFF,
+		300: #4DFFFF,
+		400: #26FFFF,
+		500: #00FFFF,
+		600: #00FFFF,
+		700: #00FFFF,
+		800: #00FFFF,
+		900: #00FFFF,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #F9FFFE,
+		A700: #DFFFFA,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $dark-primary-text,
+			900: $dark-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

@@ -1,0 +1,32 @@
+$salmon: (
+		50: #FEF0EE,
+		100: #FED9D5,
+		200: #FDC0B9,
+		300: #FCA69C,
+		400: #FB9387,
+		500: #FA8072,
+		600: #F9786A,
+		700: #F96D5F,
+		800: #F86355,
+		900: #F65042,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #FFFFFF,
+		A700: #FFFFFF,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $dark-primary-text,
+			900: $dark-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

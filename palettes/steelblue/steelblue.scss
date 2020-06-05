@@ -1,0 +1,32 @@
+$steelblue: (
+		50: #E9F0F6,
+		100: #C8DAE9,
+		200: #A3C1DA,
+		300: #7EA8CB,
+		400: #6295BF,
+		500: #4682B4,
+		600: #3F7AAD,
+		700: #376FA4,
+		800: #2F659C,
+		900: #20528C,
+		A100: #DEF2FF,
+		A200: #ABDFFF,
+		A400: #78CBFF,
+		A700: #5FC1FF,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $light-primary-text,
+			600: $light-primary-text,
+			700: $light-primary-text,
+			800: $light-primary-text,
+			900: $light-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

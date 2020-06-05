@@ -1,0 +1,32 @@
+$darkgrey: (
+		50: #F5F5F5,
+		100: #E5E5E5,
+		200: #D4D4D4,
+		300: #C3C3C3,
+		400: #B6B6B6,
+		500: #A9A9A9,
+		600: #A2A2A2,
+		700: #989898,
+		800: #8F8F8F,
+		900: #7E7E7E,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #FFD8D8,
+		A700: #FFBEBE,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $dark-primary-text,
+			900: $light-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

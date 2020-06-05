@@ -1,0 +1,32 @@
+$moccasin: (
+		50: #FFFCF6,
+		100: #FFF7E9,
+		200: #FFF2DA,
+		300: #FFECCB,
+		400: #FFE8C0,
+		500: #FFE4B5,
+		600: #FFE1AE,
+		700: #FFDDA5,
+		800: #FFD99D,
+		900: #FFD18D,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #FFFFFF,
+		A700: #FFFFFF,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $dark-primary-text,
+			900: $dark-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

@@ -1,0 +1,32 @@
+$darkorchid: (
+		50: #F3E6F9,
+		100: #E0C2F0,
+		200: #CC99E6,
+		300: #B870DB,
+		400: #A851D4,
+		500: #9932CC,
+		600: #912DC7,
+		700: #8626C0,
+		800: #7C1FB9,
+		900: #6B13AD,
+		A100: #FFFFFF,
+		A200: #EFE5FF,
+		A400: #CFB2FF,
+		A700: #BF98FF,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $light-primary-text,
+			500: $light-primary-text,
+			600: $light-primary-text,
+			700: $light-primary-text,
+			800: $light-primary-text,
+			900: $light-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

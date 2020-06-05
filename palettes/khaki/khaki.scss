@@ -1,0 +1,32 @@
+$khaki: (
+		50: #FDFCF1,
+		100: #FBF8DD,
+		200: #F8F3C6,
+		300: #F5EEAF,
+		400: #F2EA9D,
+		500: #F0E68C,
+		600: #EEE384,
+		700: #ECDF79,
+		800: #E9DB6F,
+		900: #E5D55C,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #FFFFFF,
+		A700: #FFFFFF,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $dark-primary-text,
+			900: $dark-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

@@ -1,0 +1,32 @@
+$blanchedalmond: (
+		50: #FFFDF9,
+		100: #FFF9F0,
+		200: #FFF5E6,
+		300: #FFF1DC,
+		400: #FFEED5,
+		500: #FFEBCD,
+		600: #FFE9C8,
+		700: #FFE5C1,
+		800: #FFE2BA,
+		900: #FFDDAE,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #FFFFFF,
+		A700: #FFFFFF,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $dark-primary-text,
+			900: $dark-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

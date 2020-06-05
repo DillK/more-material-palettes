@@ -1,3 +1,3 @@
 # ANTIQUEWHITE
 
-<img align="center" src="./sample.png">
+<img src="./sample.png">

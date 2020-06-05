@@ -1,0 +1,32 @@
+$tomato: (
+		50: #FFECE9,
+		100: #FFD0C8,
+		200: #FFB1A3,
+		300: #FF927E,
+		400: #FF7A63,
+		500: #FF6347,
+		600: #FF5B40,
+		700: #FF5137,
+		800: #FF472F,
+		900: #FF3520,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #FFFFFF,
+		A700: #FFEDEE,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $light-primary-text,
+			900: $light-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

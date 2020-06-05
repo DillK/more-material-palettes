@@ -1,0 +1,32 @@
+$palevioletred: (
+		50: #FBEEF2,
+		100: #F4D4DF,
+		200: #EDB8C9,
+		300: #E69BB3,
+		400: #E085A3,
+		500: #DB7093,
+		600: #D7688B,
+		700: #D25D80,
+		800: #CD5376,
+		900: #C44164,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #FFD4E4,
+		A700: #FFBBD5,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $light-primary-text,
+			900: $light-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

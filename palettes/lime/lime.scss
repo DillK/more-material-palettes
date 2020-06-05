@@ -1,0 +1,32 @@
+$lime: (
+		50: #E0FFE0,
+		100: #B3FFB3,
+		200: #80FF80,
+		300: #4DFF4D,
+		400: #26FF26,
+		500: #00FF00,
+		600: #00FF00,
+		700: #00FF00,
+		800: #00FF00,
+		900: #00FF00,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #DAFFD2,
+		A700: #C4FFB9,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $dark-primary-text,
+			900: $dark-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

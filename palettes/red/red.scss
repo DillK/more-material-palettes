@@ -1,0 +1,32 @@
+$red: (
+		50: #FFE0E0,
+		100: #FFB3B3,
+		200: #FF8080,
+		300: #FF4D4D,
+		400: #FF2626,
+		500: #FF0000,
+		600: #FF0000,
+		700: #FF0000,
+		800: #FF0000,
+		900: #FF0000,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #FFD2DA,
+		A700: #FFB9C4,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $light-primary-text,
+			500: $light-primary-text,
+			600: $light-primary-text,
+			700: $light-primary-text,
+			800: $light-primary-text,
+			900: $light-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

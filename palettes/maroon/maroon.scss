@@ -1,0 +1,32 @@
+$maroon: (
+		50: #F0E0E0,
+		100: #D9B3B3,
+		200: #C08080,
+		300: #A64D4D,
+		400: #932626,
+		500: #800000,
+		600: #780000,
+		700: #6D0000,
+		800: #630000,
+		900: #500000,
+		A100: #FF8CAF,
+		A200: #FF598B,
+		A400: #FF2667,
+		A700: #FF0D56,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $light-primary-text,
+			400: $light-primary-text,
+			500: $light-primary-text,
+			600: $light-primary-text,
+			700: $light-primary-text,
+			800: $light-primary-text,
+			900: $light-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $light-primary-text,
+			A700: $light-primary-text
+		)
+	) !default;

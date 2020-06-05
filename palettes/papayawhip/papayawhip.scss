@@ -1,0 +1,32 @@
+$papayawhip: (
+		50: #FFFDFA,
+		100: #FFFAF2,
+		200: #FFF7EA,
+		300: #FFF4E2,
+		400: #FFF1DB,
+		500: #FFEFD5,
+		600: #FFEDD0,
+		700: #FFEBCA,
+		800: #FFE8C4,
+		900: #FFE4BA,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #FFFFFF,
+		A700: #FFFFFF,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $dark-primary-text,
+			900: $dark-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

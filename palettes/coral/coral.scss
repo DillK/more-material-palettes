@@ -1,0 +1,32 @@
+$coral: (
+		50: #FFF0EA,
+		100: #FFD9CB,
+		200: #FFBFA8,
+		300: #FFA585,
+		400: #FF926A,
+		500: #FF7F50,
+		600: #FF7749,
+		700: #FF6C40,
+		800: #FF6237,
+		900: #FF4F27,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #FFFFFF,
+		A700: #FFFFFF,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $dark-primary-text,
+			900: $light-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

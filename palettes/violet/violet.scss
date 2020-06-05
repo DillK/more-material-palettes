@@ -1,0 +1,32 @@
+$violet: (
+		50: #FDF0FD,
+		100: #FADAFA,
+		200: #F7C1F7,
+		300: #F3A8F3,
+		400: #F195F1,
+		500: #EE82EE,
+		600: #EC7AEC,
+		700: #E96FE9,
+		800: #E765E7,
+		900: #E252E2,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #FFFFFF,
+		A700: #FFFFFF,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $dark-primary-text,
+			900: $dark-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

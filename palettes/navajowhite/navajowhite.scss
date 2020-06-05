@@ -1,0 +1,32 @@
+$navajowhite: (
+		50: #FFFBF5,
+		100: #FFF5E6,
+		200: #FFEFD6,
+		300: #FFE8C6,
+		400: #FFE3B9,
+		500: #FFDEAD,
+		600: #FFDAA6,
+		700: #FFD59C,
+		800: #FFD193,
+		900: #FFC883,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #FFFFFF,
+		A700: #FFFFFF,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $dark-primary-text,
+			900: $dark-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

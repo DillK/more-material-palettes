@@ -1,0 +1,32 @@
+$seagreen: (
+		50: #E6F1EB,
+		100: #C0DCCD,
+		200: #97C5AB,
+		300: #6DAE89,
+		400: #4D9C70,
+		500: #2E8B57,
+		600: #29834F,
+		700: #237846,
+		800: #1D6E3C,
+		900: #125B2C,
+		A100: #BCFFC1,
+		A200: #89FF91,
+		A400: #56FF62,
+		A700: #3CFF4A,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $light-primary-text,
+			500: $light-primary-text,
+			600: $light-primary-text,
+			700: $light-primary-text,
+			800: $light-primary-text,
+			900: $light-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

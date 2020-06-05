@@ -1,0 +1,32 @@
+$gainsboro: (
+		50: #FBFBFB,
+		100: #F5F5F5,
+		200: #EEEEEE,
+		300: #E7E7E7,
+		400: #E1E1E1,
+		500: #DCDCDC,
+		600: #D8D8D8,
+		700: #D3D3D3,
+		800: #CECECE,
+		900: #C5C5C5,
+		A100: #FFFFFF,
+		A200: #FFFFFF,
+		A400: #FFFFFF,
+		A700: #FFFFFF,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $dark-primary-text,
+			900: $dark-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;

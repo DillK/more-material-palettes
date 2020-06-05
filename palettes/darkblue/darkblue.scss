@@ -1,0 +1,32 @@
+$darkblue: (
+		50: #E0E0F1,
+		100: #B3B3DC,
+		200: #8080C5,
+		300: #4D4DAE,
+		400: #26269C,
+		500: #00008B,
+		600: #000083,
+		700: #000078,
+		800: #00006E,
+		900: #00005B,
+		A100: #97B4FF,
+		A200: #648FFF,
+		A400: #316BFF,
+		A700: #1758FF,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $light-primary-text,
+			400: $light-primary-text,
+			500: $light-primary-text,
+			600: $light-primary-text,
+			700: $light-primary-text,
+			800: $light-primary-text,
+			900: $light-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $light-primary-text,
+			A700: $light-primary-text
+		)
+	) !default;

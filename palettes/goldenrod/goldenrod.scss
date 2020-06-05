@@ -1,0 +1,32 @@
+$goldenrod: (
+		50: #FBF4E4,
+		100: #F4E4BC,
+		200: #EDD290,
+		300: #E5C063,
+		400: #E0B341,
+		500: #DAA520,
+		600: #D69D1C,
+		700: #D09318,
+		800: #CB8A13,
+		900: #C2790B,
+		A100: #FFFFFF,
+		A200: #FFFAF6,
+		A400: #FFDBC3,
+		A700: #FFCCAA,
+		contrast: (
+			50: $dark-primary-text,
+			100: $dark-primary-text,
+			200: $dark-primary-text,
+			300: $dark-primary-text,
+			400: $dark-primary-text,
+			500: $dark-primary-text,
+			600: $dark-primary-text,
+			700: $dark-primary-text,
+			800: $dark-primary-text,
+			900: $dark-primary-text,
+			A100: $dark-primary-text,
+			A200: $dark-primary-text,
+			A400: $dark-primary-text,
+			A700: $dark-primary-text
+		)
+	) !default;
